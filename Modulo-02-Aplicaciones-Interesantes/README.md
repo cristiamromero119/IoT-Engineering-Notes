@@ -11,12 +11,12 @@ En una ciudad inteligente, miles o incluso millones de sensores están distribui
 
 ¿Por qué IoT es importante para una ciudad?
 Las ciudades modernas enfrentan muchos problemas:
--Congestión vehicular.
--Consumo excesivo de electricidad.
--Recolección ineficiente de basura.
--Falta de estacionamientos.
--Contaminación.
--Accidentes de tránsito.
+-Congestión vehicular
+-Consumo excesivo de electricidad
+-Recolección ineficiente de basura
+-Falta de estacionamientos
+-Contaminación
+-Accidentes de tránsito
 
 El Internet de las Cosas permite medir continuamente lo que ocurre mediante sensores y utilizar esa información para optimizar los recursos disponibles.
 La idea principal es muy simple:
