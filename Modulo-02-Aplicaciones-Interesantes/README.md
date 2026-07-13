@@ -107,6 +107,7 @@ En otras palabras:
 Los sensores generan datos, los datos generan información y la información permite optimizar la ciudad.
 
 Conceptos clave
+
 Smart City.
 Sensores urbanos.
 Smart Waste Management.
