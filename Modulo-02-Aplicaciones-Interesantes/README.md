@@ -1,6 +1,6 @@
 Módulo 2 – Aplicaciones interesantes
 
-2.1 Smart Cities (Ciudades Inteligentes)
+#2.1 Smart Cities (Ciudades Inteligentes)
 
 ¿Qué aprendí?
 Una Smart City es una ciudad que utiliza sensores, dispositivos conectados a Internet y sistemas de comunicación para recopilar información en tiempo real y mejorar el funcionamiento de los servicios públicos.
