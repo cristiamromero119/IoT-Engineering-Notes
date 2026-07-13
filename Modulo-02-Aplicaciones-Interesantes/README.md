@@ -1,122 +1,88 @@
-#Módulo 2 – Aplicaciones interesantes
+# Módulo 2 - Aplicaciones Interesantes
 
-##2.1 Smart Cities (Ciudades Inteligentes)
+## 2.1 Smart Cities
 
-¿Qué aprendí?
-Una Smart City es una ciudad que utiliza sensores, dispositivos conectados a Internet y sistemas de comunicación para recopilar información en tiempo real y mejorar el funcionamiento de los servicios públicos.
+### ¿Qué aprendí?
+Una **Smart City** utiliza sensores, dispositivos conectados a Internet y sistemas de comunicación para recopilar información en tiempo real y mejorar el funcionamiento de los servicios públicos.
 
-El objetivo no es llenar la ciudad de tecnología, sino hacer que la ciudad funcione de forma más eficiente, reduciendo costos, consumo de energía, contaminación y tiempo perdido.
+Su objetivo no es llenar la ciudad de tecnología, sino utilizar los datos para tomar mejores decisiones y hacer un uso más eficiente de los recursos.
 
-En una ciudad inteligente, miles o incluso millones de sensores están distribuidos por calles, edificios, vehículos e infraestructura. Todos ellos envían información que permite tomar decisiones automáticas o ayudar a las autoridades a actuar más rápido.
+### ¿Por qué es importante?
+Las ciudades enfrentan problemas como:
+- Congestión vehicular.
+- Consumo excesivo de energía.
+- Contaminación.
+- Recolección ineficiente de residuos.
+- Falta de estacionamientos.
 
-¿Por qué IoT es importante para una ciudad?
-Las ciudades modernas enfrentan muchos problemas:
--Congestión vehicular
--Consumo excesivo de electricidad
--Recolección ineficiente de basura
--Falta de estacionamientos
--Contaminación
--Accidentes de tránsito
+El IoT ayuda a resolver estos problemas mediante sensores que recopilan información continuamente.
 
-El Internet de las Cosas permite medir continuamente lo que ocurre mediante sensores y utilizar esa información para optimizar los recursos disponibles.
-La idea principal es muy simple:
-Si puedes medir algo, puedes administrarlo mejor.
+> **Idea clave:** Si puedes medir algo, puedes administrarlo mejor.
 
-Aplicaciones principales
 
-1. Gestión inteligente de residuos (Smart Waste Management)
-Los contenedores de basura incorporan sensores que detectan el nivel de llenado.
+### Aplicaciones
 
-Cuando un contenedor está casi lleno, envía automáticamente una señal al sistema central.
+#### Gestión inteligente de residuos
+Los contenedores incorporan sensores que detectan su nivel de llenado.
 
-En lugar de que los camiones recorran toda la ciudad siguiendo un horario fijo, solo visitan los contenedores que realmente necesitan vaciarse.
+Cuando un contenedor está lleno, envía una señal al sistema para que el camión solo recoja los que realmente lo necesitan.
 
-Beneficios
-Menor consumo de combustible.
-Menor tiempo de recorrido.
-Menos contaminación.
-Reducción de costos.
-Mayor eficiencia en la recolección.
+**Beneficios**
+- Menor consumo de combustible.
+- Menor costo operativo.
+- Menos contaminación.
+- Mayor eficiencia.
 
-Ejemplo mencionado: el aeropuerto de Dublín logró reducir significativamente los recorridos innecesarios utilizando contenedores inteligentes.
+#### Alumbrado inteligente
+Las farolas utilizan sensores para detectar:
+- Vehículos.
+- Personas.
+- Luz ambiental.
 
-2. Alumbrado inteligente (Smart Street Lights)
-Las farolas pueden incorporar sensores de:
+Así solo permanecen encendidas cuando es necesario.
 
-movimiento,
-presencia de personas,
-vehículos,
-luminosidad ambiental.
+**Beneficios**
+- Ahorro energético.
+- Mayor seguridad.
+- Menor mantenimiento.
 
-Gracias a estos sensores, las luces solo aumentan su intensidad cuando realmente es necesario.
-
-Beneficios
--Gran ahorro energético.
--Menor costo de mantenimiento.
--Mayor seguridad.
--Mayor vida útil de las luminarias.
-
-3. Estacionamiento inteligente (Smart Parking)
-
-Cada plaza de estacionamiento posee un sensor que detecta si está ocupada o libre.
+#### Estacionamiento inteligente
+Cada plaza posee un sensor que informa si está libre u ocupada.
 
 La información se envía a una aplicación móvil.
 
-Así, el conductor conoce inmediatamente dónde existe un espacio disponible.
+**Beneficios**
+- Reduce el tiempo buscando estacionamiento.
+- Disminuye el tráfico.
+- Reduce emisiones contaminantes.
 
-Beneficios
--Reduce el tiempo buscando estacionamiento.
--Disminuye el tráfico.
--Reduce emisiones contaminantes.
--Menor consumo de combustible.
 
-4. Vehículos conectados (Connected Vehicles)
-Los automóviles intercambian información entre sí (V2V) y también con la infraestructura de la ciudad (V2I).
+#### Vehículos conectados
+Los automóviles intercambian información entre ellos y con la infraestructura.
 
-Pueden compartir datos como:
--velocidad,
--accidentes,
--congestión,
--estado del tráfico,
--condiciones de la carretera.
+Esto permite:
+- Mejorar el tráfico.
+- Reducir accidentes.
+- Optimizar las rutas.
 
-Gracias a ello es posible optimizar el flujo vehicular y aumentar la seguridad.
 
-El objetivo futuro es combinar la comodidad del transporte privado con la eficiencia del transporte público.
+### Lo más importante
+Todas estas aplicaciones tienen algo en común:
 
-Idea importante sobre los sensores
+**Los sensores son el punto de partida del Internet de las Cosas.**
 
-Todas estas aplicaciones tienen algo en común.
+Sin sensores no existirían los datos que permiten tomar decisiones inteligentes.
 
-No funcionan sin sensores.
 
-Los sensores son los encargados de transformar fenómenos físicos (movimiento, temperatura, distancia, presencia, nivel de basura, etc.) en información digital que luego puede analizarse.
+### Conceptos clave
+- Smart City
+- Smart Waste Management
+- Smart Street Lights
+- Smart Parking
+- Connected Vehicles
+- Sensores urbanos
 
-Sin sensores no existiría el Internet de las Cosas.
 
-Lo más importante del tema
+### Lo que me llevo
 
-Una Smart City no consiste simplemente en instalar tecnología.
-
-Lo verdaderamente importante es utilizar la información obtenida por los sensores para tomar mejores decisiones y hacer un uso más eficiente de los recursos.
-
-En otras palabras:
-
-Los sensores generan datos, los datos generan información y la información permite optimizar la ciudad.
-
-Conceptos clave
-
--Smart City.
--Sensores urbanos.
--Smart Waste Management.
--Smart Street Lights.
--Smart Parking.
--Connected Vehicles.
--Optimización basada en datos.
--Eficiencia energética.
--Toma de decisiones en tiempo real.
--Lo que me llevo
-
-Antes pensaba que una ciudad inteligente era simplemente una ciudad con mucha tecnología.
-
-Ahora entiendo que una Smart City utiliza sensores conectados a Internet para recopilar datos en tiempo real y mejorar servicios como la recolección de basura, el alumbrado, el estacionamiento y el transporte, buscando siempre una mayor eficiencia y una mejor calidad de vida.
+Una ciudad inteligente no consiste en tener mucha tecnología, sino en utilizar datos en tiempo real para mejorar la calidad de vida y hacer más eficientes los servicios públicos.
