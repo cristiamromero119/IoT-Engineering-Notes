@@ -11,21 +11,19 @@ En una ciudad inteligente, miles o incluso millones de sensores están distribui
 
 ¿Por qué IoT es importante para una ciudad?
 Las ciudades modernas enfrentan muchos problemas:
-
-Congestión vehicular.
-Consumo excesivo de electricidad.
-Recolección ineficiente de basura.
-Falta de estacionamientos.
-Contaminación.
-Accidentes de tránsito.
+-Congestión vehicular.
+-Consumo excesivo de electricidad.
+-Recolección ineficiente de basura.
+-Falta de estacionamientos.
+-Contaminación.
+-Accidentes de tránsito.
 
 El Internet de las Cosas permite medir continuamente lo que ocurre mediante sensores y utilizar esa información para optimizar los recursos disponibles.
-
 La idea principal es muy simple:
-
 Si puedes medir algo, puedes administrarlo mejor.
 
 Aplicaciones principales
+
 1. Gestión inteligente de residuos (Smart Waste Management)
 Los contenedores de basura incorporan sensores que detectan el nivel de llenado.
 
@@ -53,10 +51,11 @@ luminosidad ambiental.
 Gracias a estos sensores, las luces solo aumentan su intensidad cuando realmente es necesario.
 
 Beneficios
-Gran ahorro energético.
-Menor costo de mantenimiento.
-Mayor seguridad.
-Mayor vida útil de las luminarias.
+-Gran ahorro energético.
+-Menor costo de mantenimiento.
+-Mayor seguridad.
+-Mayor vida útil de las luminarias.
+
 3. Estacionamiento inteligente (Smart Parking)
 
 Cada plaza de estacionamiento posee un sensor que detecta si está ocupada o libre.
@@ -66,21 +65,20 @@ La información se envía a una aplicación móvil.
 Así, el conductor conoce inmediatamente dónde existe un espacio disponible.
 
 Beneficios
-Reduce el tiempo buscando estacionamiento.
-Disminuye el tráfico.
-Reduce emisiones contaminantes.
-Menor consumo de combustible.
-4. Vehículos conectados (Connected Vehicles)
+-Reduce el tiempo buscando estacionamiento.
+-Disminuye el tráfico.
+-Reduce emisiones contaminantes.
+-Menor consumo de combustible.
 
+4. Vehículos conectados (Connected Vehicles)
 Los automóviles intercambian información entre sí (V2V) y también con la infraestructura de la ciudad (V2I).
 
 Pueden compartir datos como:
-
-velocidad,
-accidentes,
-congestión,
-estado del tráfico,
-condiciones de la carretera.
+-velocidad,
+-accidentes,
+-congestión,
+-estado del tráfico,
+-condiciones de la carretera.
 
 Gracias a ello es posible optimizar el flujo vehicular y aumentar la seguridad.
 
@@ -108,16 +106,16 @@ Los sensores generan datos, los datos generan información y la información per
 
 Conceptos clave
 
-Smart City.
-Sensores urbanos.
-Smart Waste Management.
-Smart Street Lights.
-Smart Parking.
-Connected Vehicles.
-Optimización basada en datos.
-Eficiencia energética.
-Toma de decisiones en tiempo real.
-Lo que me llevo
+-Smart City.
+-Sensores urbanos.
+-Smart Waste Management.
+-Smart Street Lights.
+-Smart Parking.
+-Connected Vehicles.
+-Optimización basada en datos.
+-Eficiencia energética.
+-Toma de decisiones en tiempo real.
+-Lo que me llevo
 
 Antes pensaba que una ciudad inteligente era simplemente una ciudad con mucha tecnología.
 
