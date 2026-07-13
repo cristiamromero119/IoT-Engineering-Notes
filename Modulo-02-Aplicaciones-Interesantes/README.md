@@ -43,17 +43,13 @@ BLE fue elegido porque:
 
 ### Sensores ingeribles
 
-Uno de los ejemplos mostrados es un sensor ingerible capaz de activarse dentro del cuerpo.
+El sensor ingerible no depende de una batería convencional.
 
-A diferencia de otros dispositivos, este sensor **no utiliza una batería convencional**.
+Obtiene la energía necesaria mediante **Energy Harvesting (cosecha de energía)**, aprovechando la energía disponible en el entorno del cuerpo humano.
 
-Obtiene la energía necesaria aprovechando el **ácido del estómago**, que actúa como electrolito para generar una pequeña corriente eléctrica.
+**Dato importante para el examen**
 
-Este principio permite alimentar el sensor sin necesidad de reemplazar baterías.
-
-**Dato para recordar**
-
-> La fuente de energía del sensor ingerible es el **ácido estomacal**, no una batería de litio.
+✔ Tecnología utilizada: Energy Harvesting (Cosecha de energía).
 
 ---
 
@@ -63,20 +59,6 @@ Este principio permite alimentar el sensor sin necesidad de reemplazar baterías
 |------------------------------|------------------------------------------------------------------|
 | Vehículos conectados         | V2X                                                              |
 | Traje inteligente para bebés | Bluetooth Low Energy (BLE)                                       |
-| Sensor ingerible             | Funciona utilizando el ácido del estómago como fuente de energía |
+| Sensor ingerible             | Funciona utilizando Energy Harvesting (cosecha de energía)       |
 
 ---
-
-# Posibles preguntas
-
-**¿Qué protocolo utilizan los vehículos conectados?**
-
-✔ V2X
-
-**¿Qué protocolo inalámbrico utiliza el traje inteligente para bebés?**
-
-✔ Bluetooth Low Energy (BLE)
-
-**¿Cómo obtiene energía el sensor ingerible?**
-
-✔ Aprovechando el ácido del estómago.
