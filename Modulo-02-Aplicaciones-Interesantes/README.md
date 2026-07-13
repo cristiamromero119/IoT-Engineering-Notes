@@ -1,64 +1,132 @@
----
+# Módulo 2 - Aplicaciones interesantes
 
-# Datos importantes y posibles preguntas de evaluación
+## ¿Qué busca demostrar este módulo?
 
-Durante este módulo se presentaron diferentes aplicaciones del IoT. Además de comprender cómo funcionan, Stanford menciona algunas tecnologías específicas que pueden aparecer en las evaluaciones.
+El IoT no es una tecnología creada por sí misma; su propósito es resolver problemas reales mediante sensores, dispositivos conectados y análisis de datos.
 
-## Smart Cities
-
-### Vehículos conectados
-
-Los vehículos conectados utilizan el concepto **V2X (Vehicle-to-Everything)**, que permite la comunicación entre el vehículo y su entorno.
-
-V2X incluye:
-
-- V2V (Vehicle-to-Vehicle)
-- V2I (Vehicle-to-Infrastructure)
-- V2P (Vehicle-to-Pedestrian)
-- V2N (Vehicle-to-Network)
-
-**Dato para recordar**
-
-> Los vehículos conectados utilizan **V2X**.
+En este módulo Stanford presenta cuatro grandes áreas donde el IoT tendrá mayor impacto.
 
 ---
 
-## Healthcare
+# 2.1 Smart Cities
 
-### Monitoreo de bebés
+### Idea principal
 
-En el ejemplo presentado por Stanford, el traje inteligente del bebé incorpora sensores textiles que transmiten la información mediante **Bluetooth Low Energy (BLE)**.
+Una ciudad inteligente utiliza sensores para tomar mejores decisiones automáticamente y reducir desperdicios.
 
-BLE fue elegido porque:
+### Aplicaciones importantes
 
-- consume muy poca energía;
-- permite una batería de larga duración;
-- es suficiente para transmitir signos vitales.
+- Gestión inteligente de residuos.
+- Alumbrado público inteligente.
+- Estacionamiento inteligente.
+- Seguridad basada en sensores.
+- Vehículos conectados.
 
-**Dato para recordar**
+### ¿Qué aprendí?
 
-> El protocolo inalámbrico utilizado es **Bluetooth Low Energy (BLE)**.
+El objetivo no es simplemente conectar dispositivos, sino hacer que la ciudad sea más eficiente, segura y sostenible.
 
----
+**Dato importante**
 
-### Sensores ingeribles
-
-El sensor ingerible no depende de una batería convencional.
-
-Obtiene la energía necesaria mediante **Energy Harvesting (cosecha de energía)**, aprovechando la energía disponible en el entorno del cuerpo humano.
-
-**Dato importante para el examen**
-
-✔ Tecnología utilizada: Energy Harvesting (Cosecha de energía).
+Vehículos conectados → **V2X (Vehicle-to-Everything).**
 
 ---
 
-# Resumen para el examen
+# 2.2 Healthcare
 
-|             Tema             |                          Dato importante                         |
-|------------------------------|------------------------------------------------------------------|
-| Vehículos conectados         | V2X                                                              |
-| Traje inteligente para bebés | Bluetooth Low Energy (BLE)                                       |
-| Sensor ingerible             | Funciona utilizando Energy Harvesting (cosecha de energía)       |
+### Idea principal
+
+El IoT permite monitorear continuamente la salud del paciente sin necesidad de permanecer en un hospital.
+
+### Aplicaciones importantes
+
+- Monitoreo de bebés.
+- Supervisión de adultos mayores.
+- Sensores ingeribles.
+- Seguimiento de enfermedades.
+- Control del cumplimiento de tratamientos.
+
+### ¿Qué aprendí?
+
+La medicina pasa de ser reactiva a preventiva gracias al monitoreo continuo.
+
+### Desafíos
+
+- Privacidad de datos.
+- Seguridad.
+- Falsos positivos.
+- Integración entre dispositivos.
+
+**Datos importantes**
+
+- Traje inteligente → **Bluetooth Low Energy (BLE).**
+- Sensor ingerible → **Energy Harvesting (Cosecha de energía).**
 
 ---
+
+# 2.3 Agricultura
+
+### Idea principal
+
+El IoT ayuda al agricultor a tomar decisiones basadas en datos.
+
+### Aplicaciones
+
+- Agricultura de precisión.
+- Ganado conectado.
+- Seguridad alimentaria.
+
+### ¿Qué aprendí?
+
+Los sensores permiten ahorrar agua, fertilizantes y reducir pérdidas.
+
+---
+
+# 2.4 Manufacturing & Logistics
+
+### Idea principal
+
+Las fábricas del futuro estarán conectadas mediante sensores.
+
+### Aplicaciones
+
+- Smart Manufacturing.
+- Industria 4.0.
+- Smart Packaging.
+
+### ¿Qué aprendí?
+
+Los sensores permiten conocer en tiempo real el estado de las máquinas, productos y procesos logísticos.
+
+---
+
+# Lo más importante del módulo
+
+✔ El IoT existe para resolver problemas reales.
+
+✔ Todas las aplicaciones siguen el mismo flujo:
+
+Sensor → Comunicación → Procesamiento → Decisión → Acción.
+
+✔ Las cuatro áreas con mayor impacto son:
+
+- Smart Cities
+- Healthcare
+- Agriculture
+- Manufacturing
+
+---
+
+# Datos que Stanford puede preguntar
+
+| Tema | Respuesta |
+|------|-----------|
+| Vehículos conectados | **V2X** |
+| Monitoreo de bebés | **Bluetooth Low Energy (BLE)** |
+| Sensor ingerible | **Energy Harvesting** |
+
+---
+
+# En una frase
+
+> El IoT conecta sensores, dispositivos y redes para obtener información del mundo real y tomar decisiones que mejoren la eficiencia, la seguridad y la calidad de vida.
